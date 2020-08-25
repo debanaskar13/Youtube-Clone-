@@ -1,0 +1,12 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #eee;
+}
+.search-youtube{
+    width: 500px;
+    border: 1px solid rgb(199, 196, 196);
+}
+.fa-search{
+    border: 1px solid rgb(199, 196, 196);
+    border-left: none;
+}
